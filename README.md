@@ -1,2 +1,3 @@
 # CommonTimePicker Vue
-**<common-time-picker v-model="time" />**
+```html
+<common-time-picker v-model="time" />
